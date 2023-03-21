@@ -1,5 +1,9 @@
 # Reset Windows Update Tool - Lite
 
+[![GitHub Release](https://img.shields.io/github/v/release/wureset-tools/script-wureset-lite)](https://github.com/wureset-tools/script-wureset-lite/releases/tag/v1.0.0)
+[![GitHub Release Date](https://img.shields.io/github/release-date/wureset-tools/script-wureset-lite)](https://github.com/wureset-tools/script-wureset-lite/releases/tag/v1.0.0)
+[![GitHub license](https://img.shields.io/github/license/wureset-tools/script-wureset-lite)](./LICENSE)
+
 ## Description:
 
 This script only restores the Windows Update components (lite version).
